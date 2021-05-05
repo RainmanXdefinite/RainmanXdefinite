@@ -1,7 +1,7 @@
-# About me
-I am a ROBLOX player since 2018. Playing ROBLOX is what got me into programming; I quickly learned Lua and game programming in ROBLOX as a whole. I picked up other languages like
-VBScript, HTML and CSS.
+hi! im a 12 year old developer in japan. i can do some cool stuff in html, css and javascript with no tutorials and no help. check it out! ps. the calculator @ https://rainmanxdefinite.github.io/arts/calculator/index.html is actually following a tutorial. no i am not that advanced yet lol
 
-# Is there anyway I can help?
-Sure! If you can commit, post discussions or issues or even share my profile/repos with people that counts as help too! Dont be afraid to ask a question in discussions, we all get
-a moment where we need to question what `<img src="rick-astley.jpg" title="If youre reading this you got rickrolled XDDD" />` or `while true do rickroll(player) wait(4) end` means.
+things to check out:
+- javascript calculator https://rainmanxdefinite.github.io/arts/calculator/index.html
+- dark mode/light mode toggle https://github.com/RainmanXdefinite/Dark-Mode-Toggle
+- javascript tabs https://github.com/RainmanXdefinite/JavaScriptTabs/
+- all of my repos https://github.com/RainmanXdefinite?tab=repositories
