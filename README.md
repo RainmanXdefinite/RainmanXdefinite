@@ -1,4 +1,4 @@
-hi! im a 12 year old developer in japan. i can do some cool stuff in html, css and javascript with no tutorials and no help. check it out! ps. the calculator @ https://rainmanxdefinite.github.io/arts/calculator/index.html is actually following a tutorial. no i am not that advanced yet lol
+hi! im a 12 year old developer. i can do some cool stuff in html, css and javascript with no tutorials and no help. check it out! ps. the calculator @ https://rainmanxdefinite.github.io/arts/calculator/index.html is actually following a tutorial. no i am not that advanced yet lol
 
 things to check out:
 - javascript calculator https://rainmanxdefinite.github.io/arts/calculator/index.html
@@ -17,4 +17,4 @@ hobbys:
 
 i may not be online 24/7.
 my favorite youtube video is donald mcdonald insanity (no its not my video).
-well i am not taking up more of your time. さようなら！
+well i am not taking up more of your time.
